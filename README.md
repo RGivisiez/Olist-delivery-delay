@@ -4,7 +4,7 @@
 
 > O notebook é melhor visualizado usando o Google Colab:
 >  
->  <a href="" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+>  <a href="https://colab.research.google.com/github/RGivisiez/Olist-delivery-delay/blob/main/E_Commerce_Delivery_Delay.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 >  
 **Descrição do problema:** 
 
